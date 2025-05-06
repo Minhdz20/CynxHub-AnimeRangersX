@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minhdz20/CynxHub-AnimeRangersX/main/gui.lua"))()
